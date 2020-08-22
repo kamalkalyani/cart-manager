@@ -17,7 +17,7 @@ A cart check-out application created with node,express,mongodb.
  http://localhost:5601
 
 ## Launch APM UI 
-![apm-launch](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/launch-apm.png) 
+![apm-launch](https://github.com/kamalkalyani/cart-manager/blob/master/images/launch-apm.png) 
  
 
 ## What does APM instruments :
