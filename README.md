@@ -27,8 +27,8 @@ A cart check-out application created with node,express,mongodb.
  - custom spans.
  
 ## Samples from APM
-![Request Distribution](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/request-distribution.png)
-![Response percentile](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/95-99-percentile-reponse.png)
-![API preformance](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/api-performance.png)
-![req-dist-per-response](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/request-distribution-in-response-time.png)
-![api-span](https://github.paypal.com/kkkalyani/cart-manager/blob/master/images/api-request-spans.png)
+![Request Distribution](https://github.com/kamalkalyani/cart-manager/blob/master/images/request-distribution.png)
+![Response percentile](https://github.com/kamalkalyani/cart-manager/blob/master/images/95-99-percentile-reponse.png)
+![API preformance](https://github.com/kamalkalyani/cart-manager/blob/master/images/api-performance.png)
+![req-dist-per-response](https://github.com/kamalkalyani/cart-manager/blob/master/images/request-distribution-in-response-time.png)
+![api-span](https://github.com/kamalkalyani/cart-manager/blob/master/images/api-request-spans.png)
